@@ -16,7 +16,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "CC-BY-NC-4.0",
   "packageManager": "pnpm@10.20.0",
   "dependencies": {
     "@tanstack/react-virtual": "^3.14.22",
