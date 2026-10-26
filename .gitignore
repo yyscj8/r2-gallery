@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.wrangler/
+.vitest-cache/
+*.log
+
+# AI Agents & Prompts
+.agents/
+AGENTS.md
+CLAUDE.md
+skills-lock.json
+.scratch/
+docs/agents/
+
+# Internal specs & private scripts
+CUTIE_DL_SPEC.md
+scripts/import-local-media.py
+
